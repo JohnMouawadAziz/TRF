@@ -37,7 +37,7 @@ body{/*background-image:url(images/teamwor);*/
 .slider-1-title{font-size: 38px;color: white;font-weight: bold;letter-spacing: 4px;}
 .slider-1-p{line-height: 2em;font-size: 16px;}
 .get-app{background: black;border:2px solid black; border-radius: 40px;
-          height: 60px;width: 150px;color: white;}
+          height: 60px;width: 150px;color: white;margin-left: -10px;}
 .get-app:hover{background: transparent;color: black;border:2px solid black;}
 .get-app-2{background: transparent;border:2px solid white; border-radius: 40px;
           height: 60px;width: 150px;color: white;margin-left: 10px;}
@@ -151,3 +151,25 @@ body{/*background-image:url(images/teamwor);*/
 /*----------slider 3-------------*/
 ._our{margin-top: 15%;font-weight: bold;letter-spacing: 5px;font-size: 42px;margin-bottom: 100px !important;}
 .testimonials{width: 300px;margin-left: 10px;}
+
+.testimonials-1{
+  position: absolute;
+  top: 10px;
+  left: 5%;
+  width: 300px;
+
+}
+
+.testimonials_1{
+  position: absolute;
+  top: 200px;
+  left: 6%;
+ 
+
+}
+
+.test_1{
+   width: 59px;
+height: 59px;
+
+}
