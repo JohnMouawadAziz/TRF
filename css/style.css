@@ -173,3 +173,38 @@ body{/*background-image:url(images/teamwor);*/
 height: 59px;
 
 }
+
+
+
+.parent3{
+ position: relative;
+ 
+}
+
+._im1{
+  position: absolute;
+  top: 40px;
+  left: 20%;
+  width: 390px;
+  height: 420px;
+}
+
+._im2{
+  position: absolute;
+  top: 220px;
+  left: 0%;
+  width: 390px;
+  height: 420px;
+}
+
+
+._mg{padding-top:160px;height: 100%;padding-left: 120px;}
+._color_f{
+  font-weight: bold;color: #EAEAEA;
+  letter-spacing: 2px;font-size: 45px;
+  text-shadow: 0.5px 0.5px 0.5px #EAEAEA, 0 0 0.5px #EAEAEA, 0 0 0.5px #EAEAEA;
+  line-height: 1.2em;
+}
+
+.border-l{margin-left: -60px;border-right: 2px solid #EAEAEA;height: 50px;}
+.border-2{height: 50px;margin-left: -60px;}
